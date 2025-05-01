@@ -14,7 +14,7 @@ I'm a **pre-final year B.Tech student** specializing in **Cloud Computing & Virt
 - 💻 **Tech Stack:** Java, C, Python, JavaScript, HTML, CSS, ReactJS, AngularJS, Node.js
 - 🛠️ **Tools & Platforms:** Docker, Kubernetes, Jenkins, GitHub Actions, MongoDB, MySQL, PL/SQL, Linux
 - 🌱 Currently exploring **AI-powered applications**, **Kubernetes orchestration**, and **DevOps pipelines**
-- 🌐 **Location:** Chandigarh, India
+- 🌐 **Location:** Ludhiana, Punjab, India
 
 ---
 
