@@ -31,10 +31,6 @@ AI-powered low complexity model and workflow creation app.
 
 ### 🏥 Blood Donation Website
 Website helping people looking out for blood donors.
-
-###💸InvoPro
-Webpage built with React JS and Firebase for generating invoices, with customizable templates and local storage for backup
-
 ---
 
 ## 🚀 Skills & Tools
